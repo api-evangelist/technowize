@@ -1,0 +1,39 @@
+{
+    "name": "Technowize",
+    "description": "Technowize Magazine is one of the most premier media brands in the world. We are an innovative, digitally oriented magazine with a unique editorial vision.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28379-www-technowize-com.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/technowize\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Technowize",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28379-www-technowize-com.jpg",
+            "humanURL": "https:\/\/www.technowize.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/technowize-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/technowize"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.technowize.com"
+        }
+    ]
+}
